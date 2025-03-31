@@ -1,1 +1,24 @@
-
+{
+    "CV_Nodes": {
+        "lib_name": "CV_Nodes",
+        "lib_version": "1.0.0",
+        "lib_author": "张三，孙五",
+        "lib_url": "https://github.com/Vision-Toolkit/CV_Nodes.git",
+        "lib_license": "",
+        "lib_category": "",
+        "lib_tags": [
+            "opencv",
+            "cv",
+            "cv2",
+            "cv3",
+            "cv4",
+            "cv5",
+            "cv6",
+            "cv7",
+            "cv8",
+            "cv9",
+            "cv10"
+        ],
+        "lib_description": "基于opencv的节点库,并添加了一些辅助节点"
+    }
+}
