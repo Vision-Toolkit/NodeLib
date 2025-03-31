@@ -1,5 +1,5 @@
-{
-    "CV_Nodes": {
+[
+    {
         "lib_name": "CV_Nodes",
         "lib_version": "1.0.0",
         "lib_author": "张三，孙五",
@@ -21,4 +21,4 @@
         ],
         "lib_description": "基于opencv的节点库,并添加了一些辅助节点"
     }
-}
+]
