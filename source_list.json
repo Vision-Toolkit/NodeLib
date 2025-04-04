@@ -1,20 +1,20 @@
 [
     {
-        "lib_name": "CV_Nodes",
-        "lib_version": "1.0.0",
-        "lib_author": "张三，孙五",
-        "lib_url": "https://github.com/Vision-Toolkit/CV_Nodes.git",
-        "lib_license": "",
-        "lib_description": "基于opencv的节点库,并添加了一些辅助节点",
-        "lib_formate": "project"
+        "name": "CV_Nodes",
+        "version": "1.0.0",
+        "author": "张三，孙五",
+        "url": "https://github.com/Vision-Toolkit/CV_Nodes.git",
+        "license": "",
+        "description": "基于opencv的节点库,并添加了一些辅助节点",
+        "formate": "project"
     },
     {
-        "lib_name": "CV_Nodes_zip",
-        "lib_version": "1.0.0",
-        "lib_author": "张三，孙五",
-        "lib_url": "https://github.com/Vision-Toolkit/CV_Nodes/releases/download/0.0.1/CV_Nodes.zip",
-        "lib_license": "",
-        "lib_description": "基于opencv的节点库,并添加了一些辅助节点",
-        "lib_formate": "zip"
+        "name": "CV_Nodes_zip",
+        "version": "1.0.0",
+        "author": "张三，孙五",
+        "url": "https://github.com/Vision-Toolkit/CV_Nodes/releases/download/0.0.1/CV_Nodes.zip",
+        "license": "",
+        "description": "基于opencv的节点库,并添加了一些辅助节点",
+        "formate": "zip"
     }
 ]
